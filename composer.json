@@ -1,0 +1,22 @@
+{
+    "name": "arveres/arveres-template",
+    "description": "biblioteca pessoal de um template engine",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "ArveresTemplate\\": "src/"
+        },
+        "files": [
+            "src/Helpers/helper.php"
+        ]
+    },
+    "authors": [
+        {
+            "name": "LucaAlvess",
+            "email": "lucas-alves-mota@hotmail.com"
+        }
+    ],
+    "require": {
+        "php": "^8.0"
+    }
+}
