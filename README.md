@@ -6,14 +6,14 @@
 
 Para instalar **Arveres Template**, você o comando composer diretamente em seu terminal:
 ```shell 
-$ composer require arveres/
+$ composer require arveres/arveres-template
 ```
 ou você pode adicionar a seguinte linha em seu arquivo `composer.json`.
 
 ```
 {
     "require": {
-        "arveres/": "^1.0"
+        "arveres/arveres-template": "^1.0"
     }
 }
 ```
